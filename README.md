@@ -1,1 +1,1 @@
-# BmpInfo
+This program founds some characteristics of images as pixel-by-pixel RMS and RMS divided by a mean difference of base image pixels in given BMP images (the 1st argument - a base image, the 2nd argument - a comparison image).
